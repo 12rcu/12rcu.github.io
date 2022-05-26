@@ -1,6 +1,9 @@
 body {
     font-family: Poppins,sans-serif;
     background: linear-gradient(to bottom right, #5C49D1, #E04C3A) fixed;
+}
+
+.wrapper {
     margin: 20px;
 }
 
