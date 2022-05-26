@@ -71,3 +71,19 @@ body {
         padding: 0;
     }
 }
+
+
+::-webkit-scrollbar {
+    width: 16px;
+    background-color: #1e1e1e;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(180deg, #D0368A 0%, #708AD4 99%);
+    box-shadow: inset 2px 2px 5px 0;
+    border-radius: 100px;
+}
